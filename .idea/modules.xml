@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyFirstDemo/MyFirstDemo.iml" filepath="$PROJECT_DIR$/MyFirstDemo/MyFirstDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyFirstPython.iml" filepath="$PROJECT_DIR$/MyFirstPython.iml" />
-      <module fileurl="file://$PROJECT_DIR$/first.iml" filepath="$PROJECT_DIR$/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/opencvdemo.iml" filepath="$PROJECT_DIR$/opencvdemo.iml" />
     </modules>
   </component>
